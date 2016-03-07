@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Link
+Name=Salix IRC support
+Name[el]=Υποστήριξη μέσω IRC
+Name[de]=Salix IRC Support
+Name[he]=Salix תמיכה ב־IRC
+Name[sv]=Salix IRC hjälp
+Name[es]=Soporte de Salix por IRC
+Comment=Get on-line support for Salix using IRC
+Comment[el]=Λάβετε υποστήριξη για το Salix χρησιμοποιώντας το IRC
+Comment[de]=Hilfe im Salix Online Chat bekommen
+Comment[he]=קבלת תמיכה מקוונת עבור Salix באמצעות IRC
+Comment[sv]=Få hjälp med Salix via IRC
+Comment[es]=Recibir soporte en línea para Salix por IRC
+Categories=Application;
+URL=http://webchat.freenode.net/?randomnick=1&channels=salix&prompt=1
+Icon=salix-irc
+Terminal=false
+StartupNotify=false

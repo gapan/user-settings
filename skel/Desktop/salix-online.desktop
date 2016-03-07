@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Link
+Name=Salix Online
+Name[el]=Salix Online
+Name[de]=Salix Online
+Name[he]=Salix אונליין
+Name[sv]=Salix på Internet
+Name[es]=Salix en línea
+Comment=Open the Salix homepage
+Comment[el]=Επισκευτείτε τον ιστότοπο του Salix
+Comment[de]=Salix Homepage öffnen
+Comment[he]=פתיחת עמוד הבית של Salix
+Comment[sv]=Öppna Salix hemsida
+Comment[es]=Abrir la página principal de Salix
+Categories=Application;
+URL=http://salix.sourceforge.net
+Icon=salix-web
+Terminal=false
+StartupNotify=false
