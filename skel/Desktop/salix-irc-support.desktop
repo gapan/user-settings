@@ -15,7 +15,7 @@ Comment[he]=קבלת תמיכה מקוונת עבור Salix באמצעות IRC
 Comment[sv]=Få hjälp med Salix via IRC
 Comment[es]=Recibir soporte en línea para Salix por IRC
 Categories=Application;
-URL=http://webchat.freenode.net/?randomnick=1&channels=salix&prompt=1
+URL=https://web.libera.chat/#salix
 Icon=salix-irc
 Terminal=false
 StartupNotify=false
